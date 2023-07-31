@@ -1,0 +1,10 @@
+.cabeçalho__menu-humburguer{
+    width: 24px;
+    height: 24px;
+    background-image: url("../image/Menu.svg");
+    display: inline-block;
+}
+
+.cabeçalho{
+    background-color: var(--branco);
+}
