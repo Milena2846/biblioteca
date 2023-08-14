@@ -6,15 +6,18 @@
     background-position: center;
     display: inline-block;
 }
+
 .cabeçalho{
     background-color: var(--branco);
     display: flex;
     justify-content: space-between;
 }
+
 .container{
     display: flex;
     align-items: center;
 }
+
 .container__imagem{
     padding: 1em;
 }
