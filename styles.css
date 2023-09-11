@@ -1,9 +1,12 @@
 @import url("styles/header.css");
+
 :root{
     --cor-de-fundo: #ffff;
     --branco: #ffff;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
+    --amarelo: #f0d55e;
+    --roxo: #b649d4;
 }
 body{
     background-color: var(--cor-de-fundo);
